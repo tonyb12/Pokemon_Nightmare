@@ -1,0 +1,31 @@
+StoryBoard Draft 1 Anfang:
+
+Mc wacht in seinem Haus auf.
+Geht runter.
+
+Event 1:
+
+Mutter: DU HAST VERSCHLAFEN!!. Professor ____ war da und wollte dir dein aller erstes Pokemon schenken. Vielleicht kannst du ihn noch im Dorf antreffen, schau mal zu Rivale.
+
+
+MC geht zum Rivalen.
+
+Event 2: 
+
+Mutter(Rivale): Oh, hallo MC, Rivale ist schon weg mit seinem Pokemon, ich glaube er das letzte Pokemon von Professor ___ bekommen. Schau doch mal in seinem Labor in Umibozu nach
+
+
+MC geht zur Route 1, kann aber nicht ins hohe Grass
+
+Event 3:
+
+MC wird von einem Vipitis angegriffen. Criseldia in neuer Form geht dazwischen und schlaegt das Pokemon in die Flucht. MC fainted.
+
+Event 4:
+
+Mc wacht im Haus vom Prof aus. Prof fraegt was passiert ist. MC erzaehlt alles. Prof sagt, dass hast du bestimmt getrauemt xD. Es gibt kein Vipitis auf Route 1. Das Pokemon Criseldia ist ebenfalls nur eine Legende
+Prof ___: Egal, jetzt wo du wach bist, musst du dein aller erstes Pokemon bekommen, leider hab ich alle besonderen Starter schon abgegeben. Ich hab nur noch die diese uebrig.
+
+MC hat die Auswahl zwischen Geckabor, Glumanda, Karnimani
+
+
